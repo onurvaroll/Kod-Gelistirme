@@ -1,5 +1,6 @@
-# Kodun Açıklaması:
 ## Verilen kod default.cpp, geliştirilmiş kod gelistirilmis.cpp olarak kayıtlıdır.
+# Kodun Açıklaması:
+
 Verilen kod önce rastgele bir dizi oluşturur, sonra bu oluşturulan diziyi sıralar ve matrisleri yazdırarak işlemler yapar. 
 generate fonksiyonu, (A_SIZE) boyutundaki bir diziyi -MAX_W ile MAX_W arasındaki sayılarla rastgele random olarak oluşturur. 
 function1 fonksiyonu, verilen diziyi BubbleSort algoritması ile sıralar.
